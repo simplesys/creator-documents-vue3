@@ -1,0 +1,20 @@
+# Logs
+*.log
+
+# Libraries
+/node_modules
+/package-lock.json
+/yarn.lock
+
+# IDE
+/.idea
+
+# Builbing JS and CSS files
+/examples/блок 7/public/css/*
+/examples/блок 7/public/fonts/*
+/examples/блок 7/public/js/*
+/public/*.woff*
+/public/*.eot
+/public/*.ttf
+/dist/*
+/.firebase
